@@ -1,0 +1,32 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Rohit Yadav",
+  "keywords": [],
+  "homepage": "https://github.com/Rohit-github21/Namaste#readme",
+  "bugs": {
+    "url": "https://github.com/Rohit-github21/Namaste/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohit-github21/Namaste.git"
+  },
+  "license": "ISC",
+  "author": "Rohit Yadav",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
